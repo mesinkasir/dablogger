@@ -1,0 +1,46 @@
+title: Dablogger
+author:
+  name: Axcora
+  email: axcora@gmail.com
+  whatsapp: 6285646104747
+  phone: 62895339403223
+  address: Ruko Pasar Wisata Juanda Q.05-07
+  country: Sidoarjo - East Java - Indonesia
+  map: https://goo.gl/maps/EpcU3m3ryPMihifx7
+description: Free and open source code free download for blogger dablogger build with jekyll rb include auto SEO.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# dablogger date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+dablogger:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+  #  twitter: jekyllrb
+    github:  mesinkasir
+    facebook: mesinkasircomplete
+    instagram: mesinkasircomplete
+    youtube: bakoelraksupermarketMesinKasir
+    # youtube_channel_name: CloudCannon
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+display:
+  cover: https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d2hpdGUlMjBwZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+  coverimg: https://images.unsplash.com/photo-1512486271962-03060dcf22aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJsb2dnZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+  covertitle: dablogger jekyll
+  coverdesc: Da blogger is a free and open source code jekyll package set for build modern blog using jekyll ruby on rails. 
+
+ 
+
+# Build settings
+theme: dablogger
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

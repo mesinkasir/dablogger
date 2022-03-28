@@ -1,0 +1,28 @@
+<footer class="row border-top">
+<div class="col-md-4 p-3">
+<img class="img-fluid" alt="{{ site.title }}" src="{{site.display.cover}}"/>
+</div>
+<div class="col-md-8 p-3 p-md-5">
+<data class="u-url" href="{{ "/" | relative_url }}"></data>
+{%- if site.author %}
+<h3>{{ site.title }}.</h3><p>{{ site.description | escape }}</p>
+<hr/>
+<h3>Contact.</h3>
+<p><i class="fa-solid fa-location-dot"></i> <a href="{{ site.author.map }}">{{ site.author.address}}<br/>{{ site.author.country}}</a>
+<br/>
+<i class="fa-brands fa-whatsapp"></i> Whatsapp : <a href="https://wa.me/{{ site.author.whatsapp }}">{{ site.author.whatsapp}}</a>
+<br/>
+<i class="fa-solid fa-mobile-screen-button"></i> Call Us : <a href="tel:+{{ site.author.phone }}">{{ site.author.phone}}</a>
+<br/>
+{% if site.author.email -%}
+<i class="fa-solid fa-paper-plane"></i> <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+{%- endif %}
+{%- endif %}
+<hr/>
+<h3>Connect.</h3>
+{%- include social.html -%}
+</div>
+<div class="col-md-12 p-1 text-center border-top">
+<small>copyrights <a href="{{site.url}}">{{site.title}}</a> build with <a href="https://dablogger.web.app">dablogger</a> on <a href="https://jekyllrb.com/">jekyll</a> </small>
+</div>
+</footer>
