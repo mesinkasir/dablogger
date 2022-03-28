@@ -4,6 +4,8 @@
 
 Blast fast blog with clean design - dablogger is a jekyll set for blogger.
 
+Demo : [https://dablogger.pages.dev/](https://dablogger.pages.dev/)
+
 Test demo grid width view : [https://mejakasir.web.app/](https://mejakasir.web.app/)
 
 Dablogger home page : [https://dablogger.web.app/](https://dablogger.web.app/)
@@ -31,6 +33,8 @@ Blog page
 Mobile view
 
 --------------------------------------------------
+
+Demo : [https://dablogger.pages.dev/](https://dablogger.pages.dev/)
 
 Test demo grid width view : [https://mejakasir.web.app/](https://mejakasir.web.app/)
 
