@@ -10,7 +10,7 @@ Test demo grid width view : [https://mejakasir.web.app/](https://mejakasir.web.a
 
 Dablogger home page : [https://dablogger.web.app/](https://dablogger.web.app/)
 
-Documentation : soon on [https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html](https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html)
+Documentation : [https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html](https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html)
 
 Video demo : [https://youtu.be/eBNonC_VJjM](https://youtu.be/eBNonC_VJjM)
 
@@ -40,7 +40,7 @@ Test demo grid width view : [https://mejakasir.web.app/](https://mejakasir.web.a
 
 Dablogger home page : [https://dablogger.web.app/](https://dablogger.web.app/)
 
-Documentation : soon on [https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html](https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html)
+Documentation : [https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html](https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html)
 
 
 Video demo : [https://youtu.be/eBNonC_VJjM](https://youtu.be/eBNonC_VJjM)
