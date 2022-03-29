@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Dablogger Jekyll for blogger
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/dablogger/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![dablogger is a jekyll set for blogger.](dablgger4.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blast fast blog with clean design - dablogger is a jekyll set for blogger.
 
-### Markdown
+Demo : [https://dablogger.pages.dev/](https://dablogger.pages.dev/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Test demo grid width view : [https://mejakasir.web.app/](https://mejakasir.web.app/)
 
-```markdown
-Syntax highlighted code block
+Dablogger home page : [https://dablogger.web.app/](https://dablogger.web.app/)
 
-# Header 1
-## Header 2
-### Header 3
+Documentation : soon on [https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html](https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html)
 
-- Bulleted
-- List
+Video demo : [https://youtu.be/eBNonC_VJjM](https://youtu.be/eBNonC_VJjM)
 
-1. Numbered
-2. List
+---------------------------------------------
 
-**Bold** and _Italic_ and `Code` text
+![dablogger is a jekyll set for blogger.](dablgger4.png)
 
-[Link](url) and ![Image](src)
-```
+Home Page
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![dablogger is a jekyll set for blogger.](dablgger3.png)
 
-### Jekyll Themes
+About page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/dablogger/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![dablogger is a jekyll set for blogger.](dablgger2.png)
 
-### Support or Contact
+Blog page
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![dablogger is a jekyll set for blogger.](dablggermobile.png)
+
+Mobile view
+
+--------------------------------------------------
+
+Demo : [https://dablogger.pages.dev/](https://dablogger.pages.dev/)
+
+Test demo grid width view : [https://mejakasir.web.app/](https://mejakasir.web.app/)
+
+Dablogger home page : [https://dablogger.web.app/](https://dablogger.web.app/)
+
+Documentation : soon on [https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html](https://www.hockeycomputindo.com/2022/03/jekyll-auto-seo-with-dablogger-set-for.html)
+
+
+Video demo : [https://youtu.be/eBNonC_VJjM](https://youtu.be/eBNonC_VJjM)
+
+--------------------------------
