@@ -45,4 +45,17 @@ Documentation : soon on [https://www.hockeycomputindo.com/2022/03/jekyll-auto-se
 
 Video demo : [https://youtu.be/eBNonC_VJjM](https://youtu.be/eBNonC_VJjM)
 
---------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
